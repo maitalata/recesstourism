@@ -518,7 +518,7 @@ b.fa.fa-caret-right {
 
 .carousel-caption h2 span, .carousel-caption h3 span {
     font-weight: 700;
-    color: #cb1def;
+    color: #222466;
 	display:block;
 }
 
@@ -944,7 +944,7 @@ ul.w3l-about-list li {
 }
 .w3layouts_stats_left h3 {
     font-size: 1.3em;
-    color: #d611ff;
+    color: darkgray;
     letter-spacing: 1px;
     font-weight: 600;
 }
